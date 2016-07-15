@@ -2,8 +2,9 @@
 
 Just a step-by-step source reference for the official Facebook React Tutorial written in ES6 using gulp, browserify and Babel.
 
-Official link https://facebook.github.io/react/docs/tutorial.html
-React ES6 reference https://babeljs.io/blog/2015/06/07/react-on-es6-plus
+Official Tutorial: https://facebook.github.io/react/docs/tutorial.html
+
+React ES6 reference: https://babeljs.io/blog/2015/06/07/react-on-es6-plus
 
 ## Installation
 
