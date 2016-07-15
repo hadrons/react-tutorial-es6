@@ -1,12 +1,9 @@
 {
-  "name": "es6-frontend",
+  "name": "react-tutorial-es6",
   "version": "1.1.0",
-  "description": "ES6 Frontend starter",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "Official React tutorial written in ES6 (gulp + browserify + babel)",
   "author": "Hadrons",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.10.4",
     "babel-plugin-transform-class-properties": "^6.10.2",
